@@ -52,7 +52,7 @@ experiences:
   title: Experiences
   info:
     - role: Full-Stack Developer
-      time: 2015.6 - 2015.9
+      time: 2022.6 - 2022.9
       company: IPYGG FINTECH GROUP
       details: |
         -	Worked with team to design and implement over 50 
@@ -67,22 +67,21 @@ projects:
   intro: >
     The following are some of my projects, either from course or individual work.
   assignments:
-    backend:
-      - title: Online E-Commerce System with Spring Boot, MyBatis and Vue
-        link: "https://github.com/qscottw/foodie-dev"
-        tagline: "A Spring-Boot powered backend system that provides service for a online shopping center for different foods."
+    - title: Online E-Commerce System with Spring Boot, MyBatis and Vue
+      link: "https://github.com/qscottw/foodie-dev"
+      tagline: "A Spring-Boot powered backend system that provides service for a online shopping center for different foods."
 
-      - title: Campus Covid Monitor API with DJango
-        link: "https://github.com/qscottw/study_safe"
-        tagline: "A simple Django backend API integrated with HTML and CSS frontend to visualize covid data."
+    - title: Campus Covid Monitor API with DJango
+      link: "https://github.com/qscottw/study_safe"
+      tagline: "A simple Django backend API integrated with HTML and CSS frontend to visualize covid data."
 
-      - title: E-Commerce Website using the MERN stack.
-        link: "https://github.com/qscottw/all_mall"
-        tagline: "An online RESTful shopping center designed with MongoDB, Express, React and Node from scratch that supports shopping cart, payment, browsing and commenting..."
+    - title: E-Commerce Website using the MERN stack.
+      link: "https://github.com/qscottw/all_mall"
+      tagline: "An online RESTful shopping center designed with MongoDB, Express, React and Node from scratch that supports shopping cart, payment, browsing and commenting..."
 
-      - title: Finance Management System using MySQL and Python
-        link: "https://github.com/qscottw/IkycProject"
-        tagline: "A desktop application that provides transaction between accounts and secure face authentication using MySQL and PyQt."
+    - title: Finance Management System using MySQL and Python
+      link: "https://github.com/qscottw/IkycProject"
+      tagline: "A desktop application that provides transaction between accounts and secure face authentication using MySQL and PyQt."
 
 skills:
   title: Skills &amp; Proficiency
